@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653887426 source:c:\users\josue\documents\c++\proyectoversiculos\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+
