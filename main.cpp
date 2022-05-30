@@ -2,11 +2,13 @@
 #include <fstream>
 #include <vector>
 
+using namespace std;
 using std::cout; using std::cerr;
 using std::endl; using std::string;
 using std::ifstream; using std::vector;
 
 string texto;
+string nombre;
 
 void ComprobarPalabra(string p){
     cout<<"Palabra: "<<p<<endl;
@@ -27,7 +29,9 @@ void SepararTexto(string t){
 }
 
 void AbrirArchivo(){
-    string filename("v.txt");
+    cout<<"Escriba el nombre del archivo a abrir"<<endl;
+    cin>>nombre;
+    string filename("versiculos\\" + nombre);
     vector<string> lines;
     string line;
 
