@@ -1,6 +1,31 @@
 # depslib dependency file v1.0
-1653888889 source:c:\users\josue\documents\c++\proyectoversiculos\main.cpp
+1653959361 source:c:\users\josue\documents\c++\proyectoversiculos\main.cpp
 	<iostream>
 	<fstream>
 	<vector>
+	"Lista.h"
+	"Nodo.h"
+
+1653947489 source:c:\users\josue\documents\c++\proyectoversiculos\src\lista.cpp
+	"Lista.h"
+
+1653947489 c:\users\josue\documents\c++\proyectoversiculos\include\lista.h
+
+1653947580 source:c:\users\josue\documents\c++\proyectoversiculos\src\nodo.cpp
+	"Nodo.h"
+
+1653947922 c:\users\josue\documents\c++\proyectoversiculos\include\nodo.h
+	<string>
+
+1653950258 source:c:\users\josue\documents\c++\proyectoversiculos\lista.cpp
+	"Lista.h"
+
+1653950030 c:\users\josue\documents\c++\proyectoversiculos\lista.h
+	"Nodo.h"
+
+1653948750 source:c:\users\josue\documents\c++\proyectoversiculos\nodo.cpp
+	"Nodo.h"
+
+1653956384 c:\users\josue\documents\c++\proyectoversiculos\nodo.h
+	<string>
 
